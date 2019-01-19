@@ -46,7 +46,7 @@
 
 
 		<footer class="footer">
-			<p>&copy; PEPPER 2019</p>
+			<p>&copy; PEPPER 2019 </p>
 		</footer>
 
 	</div>
