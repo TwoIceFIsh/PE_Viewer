@@ -25,7 +25,7 @@
 					<li role="presentation"><a href="#">Contact</a></li>
 				</ul>
 			</nav>
-			<h3 class="text-muted">PEPPER</h3>
+			<h3 class="text-muted">PEPPER </h3>
 		</div>
 
 		<div class="jumbotron">
