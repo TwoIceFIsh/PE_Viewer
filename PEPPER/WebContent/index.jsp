@@ -32,7 +32,7 @@
 			<h1>파일 분석기 PEPPER v1.0</h1>
 			<p class="lead">분석할 파일을 업로드 하세요</p>
 
-			<form action="fileUpload.jsp" method="post"
+			<form action="FileManagerServlet" method="post"
 				enctype="Multipart/form-data">
 				<p>
 					파일명 : <input class="btn btn-warning" type="file" name="fileName1" />
