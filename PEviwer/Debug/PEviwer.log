@@ -1,0 +1,7 @@
+﻿  PEviwer.c
+c:\users\hg150\source\repos\peviwer\peviwer\_pe.h(8): warning C4091: 'typedef ': 변수를 선언하지 않으면 '_IMAGE_OPTIONAL_HEADER' 왼쪽은 무시됩니다.
+c:\users\hg150\source\repos\peviwer\peviwer\_pe.h(9): warning C4091: 'typedef ': 변수를 선언하지 않으면 '_IMAGE_DOS_HEADER' 왼쪽은 무시됩니다.
+c:\users\hg150\source\repos\peviwer\peviwer\_pe.h(10): warning C4091: 'typedef ': 변수를 선언하지 않으면 '_IMAGE_DATA_DIRECTORY' 왼쪽은 무시됩니다.
+c:\users\hg150\source\repos\peviwer\peviwer\_pe.h(11): warning C4091: 'typedef ': 변수를 선언하지 않으면 '_NT_HEADERS' 왼쪽은 무시됩니다.
+c:\users\hg150\source\repos\peviwer\peviwer\peviwer.c(26): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  PEviwer.vcxproj -> C:\Users\hg150\source\repos\PEviwer\Debug\PEviwer.exe

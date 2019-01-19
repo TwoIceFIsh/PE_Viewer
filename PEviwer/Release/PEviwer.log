@@ -1,0 +1,4 @@
+﻿  PEviwer.c
+c:\users\hg150\source\repos\peviwer\peviwer\peviwer.c(21): warning C4013: 'stfcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+PEviwer.obj : error LNK2001: _stfcmp 외부 기호를 확인할 수 없습니다.
+C:\Users\hg150\source\repos\PEviwer\Release\PEviwer.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
