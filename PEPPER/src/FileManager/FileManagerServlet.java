@@ -22,7 +22,7 @@ public class FileManagerServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 
 		String uploadPath = request.getRealPath("/uploadFile");
-		System.out.println("절대경로 : " + uploadPath + "<br/>");
+		System.out.println("절대경로 : " + uploadPath);
 
 		int maxSize = 1024 * 1024 * 10; // 한번에 올릴 수 있는 파일 용량 : 10M로 제한
 

@@ -30,7 +30,7 @@
 
 		<div class="jumbotron">
 			<h1>파일 분석기 PEPPER v1.0</h1>
-			<p class="lead">분석할 파일을 업로드 하세요</p>
+			<p class="lead">분석할 파일을 업로드 하세요 10MB 이하만 가능합니다.</p>
 
 			<form action="FileManagerServlet" method="post"
 				enctype="Multipart/form-data">
@@ -46,7 +46,7 @@
 
 
 		<footer class="footer">
-			<p>&copy; Company 2014</p>
+			<p>&copy; PEPPER 2019</p>
 		</footer>
 
 	</div>
